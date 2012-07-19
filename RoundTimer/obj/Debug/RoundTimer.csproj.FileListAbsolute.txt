@@ -1,0 +1,14 @@
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\Bin\Debug\ApplicationIcon.png
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\Bin\Debug\Background.png
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\Bin\Debug\RoundTimer.dll
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\Bin\Debug\RoundTimer.pdb
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\Bin\Debug\AppManifest.xaml
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\Bin\Debug\RoundTimer.xap
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\obj\Debug\App.g.cs
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\obj\Debug\MainPage.g.cs
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\obj\Debug\RoundTimer.g.resources
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\obj\Debug\RoundTimer.dll
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\obj\Debug\RoundTimer.pdb
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\obj\Debug\XapCacheFile.xml
+c:\users\leukos\documents\visual studio 2010\Projects\RoundTimer\RoundTimer\obj\Debug\TimerPage.g.cs
